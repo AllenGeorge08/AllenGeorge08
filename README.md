@@ -20,7 +20,7 @@ I build systems across AI, LLMs, and Web3 (Solana).
 
 I contribute to open-source projects and participate in security competitions.
 
-- Merged pull request in [Solana Surfpool](https://github.com/solana-foundation/surfpool) (local Solana development environment with mainnet state forking).
+- Merged pull request in [Solana Surfpool](https://github.com/solana-foundation/surfpool/commit/213de67413bb86d2dbb2384528d3d07302acdc88) (local Solana development environment with mainnet state forking).
 - 4 merged pull requests in [TrenTorch](https://github.com/TrenTorch/TrenTorch) (1k+ stars), an open-source from-scratch machine learning curriculum and framework.
 - Security research: [Sherlock profile](https://audits.sherlock.xyz/watson/Allen_George08) — multiple high- and medium-severity findings in DeFi competitions.
 
